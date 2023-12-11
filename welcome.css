@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+video{
+    width: 100%;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .5rem;
+    padding-left: .5rem;
+    color: #fff;
+    font-size: 1.2rem;
+   
+}
+.container1{
+    background-color: #cccccc;
+    display: flex;
+}
+.container1 img{
+    width: 300px;
+    height: 400px;
+    margin: 5% 2%;
+}
+.container1 .tittle{
+    padding: 10% 20%;
+}
+.container2{
+    background-color: #fff;
+    display: flex;
+}
+.container2 img{
+    width: 300px;
+    height: 400px;
+    margin: 2% 6%;
+}
+.container2 .tittle{
+    padding: 10% 20%;
+}
+footer{
+    background-color: rgb(76, 72, 121);
+    text-decoration: none;
+}
+footer a{
+    text-decoration: none;
+}
